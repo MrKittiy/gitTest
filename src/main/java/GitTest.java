@@ -6,6 +6,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.printf("你好");
         System.out.printf("hello");
-        System.out.printf("master");
+        System.out.printf("你好master");
     }
 }
