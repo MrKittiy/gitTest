@@ -13,7 +13,7 @@ public class GitTest {
         System.out.printf("你好master");
         System.out.printf("你好master");
         System.out.printf("你好hot-fix");
-        System.out.printf("你好hot-fix");
+        System.out.printf("你好hot-fix2");
 
 
     }
